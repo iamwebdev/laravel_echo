@@ -12,4 +12,4 @@ This web application is built for live commenting feature as facebook using lara
 - **Setup env with pusher account**
 - **Run php artisan db:seed commmand in your cli**
 - **Run php artisan serve command**
-- Login with any account from database with secret password
+- **Login with any account with 'secret' password**
